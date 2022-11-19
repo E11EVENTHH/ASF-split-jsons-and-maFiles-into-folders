@@ -1,0 +1,31 @@
+{
+"AcceptGifts": true,
+ "Enabled": true,
+ "AutoSteamSaleEvent": true,
+ "LootableTypes": [
+   1,
+   2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "SteamLogin": "templog",
+  "SteamMasterClanID": XXX,
+  "SteamPassword": "temppass",
+  "SteamTradeToken": "XXX",
+  "SteamUserPermissions": {
+    "76561198425547504": 3
+  },
+  "TradingPreferences": 1,
+  "TransferableTypes": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+ 7
+]
+}
