@@ -1,4 +1,4 @@
-# ASF-split-jsons-and-MaFiles-into-folders
+# Setting up
 
 - Fill in Files/logpass.txt with your logins and passwords separating them with ":"
 - Copy all maFile files from your SDA to the Files/MaFiles folder (unnecessary will be ignored and removed to another folder)
